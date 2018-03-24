@@ -1,4 +1,4 @@
-# Olympiad Codes
+# Olympic Codes
 
 Codes solving past Brazilian Olympiad in Informatics issues
 
